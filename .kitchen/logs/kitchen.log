@@ -1,0 +1,8 @@
+I, [2024-07-16T20:14:07.697815 #62983]  INFO -- Kitchen: -----> Starting Test Kitchen (v3.5.1)
+I, [2024-07-16T20:14:08.157523 #62983]  INFO -- Kitchen: -----> Destroying <default-Ubuntu>...
+I, [2024-07-16T20:14:08.161939 #62983]  INFO -- Kitchen: [Docker] Destroying Docker container 74a468b87c9686b336808582bb2f9a9d8ec8d1aff5a775cffbc53c95557c5753
+I, [2024-07-16T20:14:08.300402 #62983]  INFO -- Kitchen: UID                 PID                 PPID                C                   STIME               TTY                 TIME                CMD
+I, [2024-07-16T20:14:08.300502 #62983]  INFO -- Kitchen: root                61759               61737               0                   20:11               ?                   00:00:00            sshd: /usr/sbin/sshd -D -o UseDNS=no -o UsePAM=no -o PasswordAuthentication=yes -o UsePrivilegeSeparation=no -o PidFile=/tmp/sshd.pid [listener] 0 of 10-100 startups
+I, [2024-07-16T20:14:09.156004 #62983]  INFO -- Kitchen: 74a468b87c9686b336808582bb2f9a9d8ec8d1aff5a775cffbc53c95557c5753
+I, [2024-07-16T20:14:09.431547 #62983]  INFO -- Kitchen: 74a468b87c9686b336808582bb2f9a9d8ec8d1aff5a775cffbc53c95557c5753
+I, [2024-07-16T20:14:09.452913 #62983]  INFO -- Kitchen: -----> Test Kitchen is finished. (0m1.75s)
